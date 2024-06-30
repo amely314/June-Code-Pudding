@@ -15,9 +15,13 @@ Amy Maldonado
 
 ## Tableau Workbook with all the dashboards
 
+ Team's various dashboards with a variety of analysis
+
 https://public.tableau.com/views/RenewableEnergyPresentation/FundingDetailsandEnvironmentalImpact?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ##  Presentation
+
+Google Slides visualizing the analysis
 
 https://docs.google.com/presentation/d/17YtHPKcRgLXzO_6Y6fDPbtW-WWm7JE9InaGzj1VOUD4/edit?usp=sharing
 
