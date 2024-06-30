@@ -24,3 +24,9 @@ https://docs.google.com/presentation/d/17YtHPKcRgLXzO_6Y6fDPbtW-WWm7JE9InaGzj1VO
 ## Cleaned data set
 
 https://docs.google.com/spreadsheets/d/1BkHQ8Hrgnt2F5sehsxMlweCWKYyPAHBFuA-lGBc3py8/edit?usp=sharing
+
+## Metadata For Dataset
+
+Using the kaggle version of the data, we utilized the String variables for our analysis instead of integers as the data suggested.
+
+https://www.kaggle.com/datasets/girumwondemagegn/dataset-for-renewable-energy-systems/data
