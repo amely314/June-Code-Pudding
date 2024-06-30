@@ -15,7 +15,7 @@ Amy Maldonado
 
 ## Tableau Workbook with all the dashboards
 
-https://public.tableau.com/views/RenewableEnergyPresentation/OperationalExcellence?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/RenewableEnergyPresentation/FundingDetailsandEnvironmentalImpact?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ##  Presentation
 
