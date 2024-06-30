@@ -5,6 +5,12 @@
 
 Find out the hidden issues or challenges that renewable energy company is facing from operational, financial and socio-economic perspectives, and based on the analysis findings, we propose the action plans. 
 
+## Teammates
+
+Natsumi Murata
+Kseniya Gormash
+Amy Maldonado
+
 ## Tableau Workbook with all the dashboards
 
 https://us-east-1.online.tableau.com/#/site/caseysamydcbec48724/workbooks/1498236?:origin=card_share_link
