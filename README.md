@@ -8,7 +8,9 @@ Find out the hidden issues or challenges that renewable energy company is facing
 ## Teammates
 
 Natsumi Murata
+
 Kseniya Gormash
+
 Amy Maldonado
 
 ## Tableau Workbook with all the dashboards
